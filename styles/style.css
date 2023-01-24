@@ -9,3 +9,17 @@
     height: 80vh;
     border-radius: 8px;  
 }
+.slider-image-size{
+    height: 500px;
+}
+.frame-image{
+    width: 30px;
+    height: 30px;
+}
+/* Custom Colors */
+.para-text-color{
+    color: #707070;
+}
+.title-text-color{
+    color: #414040;
+}
