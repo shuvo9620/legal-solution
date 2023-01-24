@@ -2,3 +2,10 @@
 .legal-btn{
     background-color: #B68C5A;
 }
+/* banner styles */
+.banner-bg-image{
+    background-image: url('../images/banner.png');
+    background-repeat: no-repeat;
+    height: 80vh;
+    border-radius: 8px;  
+}
